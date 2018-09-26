@@ -25,12 +25,12 @@
 
 [Menu Item 1]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  * # IT Stuff
+  * [java](it_stuff/java.md)
+  * [NGINX](it_stuff/nginx.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # Feel good
+  * [Mind](mind/about.md)
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](pages/subitem3.md)
