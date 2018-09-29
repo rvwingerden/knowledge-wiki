@@ -17,6 +17,6 @@ Discard all local changes to all files permanently
 
 
 ## Logging
-Loggin is quit essential in modern applications.
+Logging is quit essential in modern applications.
 
 
