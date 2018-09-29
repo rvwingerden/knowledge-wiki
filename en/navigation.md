@@ -31,6 +31,7 @@
   * # Infra related
   * [AWS](it_Stuff/aws.md)
   * [NGINX](it_stuff/nginx.md)
+  * [Docker](it_stuff/docker.md)
   - - - -
   * # OS
   * [UNIX/commands](it_stuff/bash.md)
