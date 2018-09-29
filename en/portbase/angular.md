@@ -11,3 +11,7 @@ Voorbeeld repository: bezoekschip-ui
 ## twee filosofieen
 - reactive
 - ngModel (van angular zelf)
+
+## Acties
+- Check out bovenstaande repos en experimenteer wat...
+

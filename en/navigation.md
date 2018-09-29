@@ -32,6 +32,9 @@
   * [AWS](it_Stuff/aws.md)
   * [NGINX](it_stuff/nginx.md)
   - - - -
+  * # OS
+  * [UNIX/commands](it_stuff/bash.md)
+  - - - -
   * # Tooling
   * [GIT](it_stuff/git.md)
 
@@ -39,6 +42,7 @@
 
   * # Therapie
   * [Cognitieve gedragstherapie](mind/cgt.md)
+  * [Assertiviteitstraining](mind/assertiviteit.md)
   - - - -
   * # Mindfullness
   * [T'ai Chi](mind/tai.md)

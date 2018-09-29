@@ -10,3 +10,5 @@ Mockito is het testing framework...
 Loggin is quit essential in modern applications.
 
 
+## JAVA 8 Constructs
+
