@@ -73,6 +73,55 @@ De tweede reactie is ook niet effectief. Het is een voorbeeld van agressief gedr
 Zeg jij C?
 Een voorbeeld van assertief gedrag. Je zegt wat je wilt, zonder grof of onderdanig te worden. Door vastberaden en vriendelijk een verzoek te weigeren, is de kans groot dat de ander zich jouw reactie zal aantrekken. De kern van assertief gedrag is dat je voor jezelf durft op te komen, je eigen mening en je gevoel durft te uiten zonder je schuldig of onzeker te voelen en zonder daarbij de belangen van je gesprekspartner onnodig te schaden.
 
+## Uitvoeren van specifieke verzoeken
+
+**_Een verzoek doen_**
+
+- Bedenk van tevoren wat u wilt zeggen.
+- Zeg tegen de ander dat u iets wilt vragen.
+- Doe het direct en in de ik-vorm.
+- Wees duidelijk in wat u wilt, praat er niet omheen.
+
+**_Het weigeren van een verzoek_**
+
+- Antwoord kort, vermijd omslachtige verdedigingen, zeg op een zo eenvoudig mogelijke manier dat u niet wilt ingaan op het verzoek. Geef eventueel een reden voor uw weigering.
+- Toon respect, toon dat uw weigering geen afwijzing is van de persoon die het vraagt, maar van het verzoek.
+
+**_Geven van kritiek / feedback_**
+
+- Beschrijf het gedrag dat u hebt waargenomen; geef aan wat u waargenomen hebt en doe dit zo snel mogelijk nadat u het gedrag waargenomen heeft.
+- Geef commentaar op de specifieke situatie, benoem het gedrag dat u stoort of benoem het gedrag dat u prettig vindt. Laat bij negatieve feedback weten dat het om deze specifieke situatie gaat en niet over het algemene functioneren van de ander.
+- Geef de reden van het commentaar aan. Dit is zowel nuttig bij complimenten als bij kritiek. Het verschaft de ander informatie waar hij of zij wat aan heeft. Geef aan wat u graag van de ander zou willen. Zoek eventueel naar een oplossing. Dit is met name belangrijk wanneer het gaat om het geven van kritiek. Geef duidelijk aan wat u van de ander wilt.
+
+**_Reageren op kritiek / feedback_**
+
+- Probeer de kritiek te begrijpen. Vraag door naar wat de ander precies bedoelt.
+- Toon uw waardering voor degene die u kritiek geeft. Ga niet uzelf meteen verdedigen.
+- Beoordeel de kritiek. Vindt u de kritiek terecht? Herkent u de kritiek? Heeft u deze eerder gehad?
+- Als u het er mee eens bent, geef dan een bevestiging.
+- Als u het oneens bent of niet begrijpt, vraag dan naar het “hoe” en “waarom”.
+- Vraag voorbeelden van het gedrag en vraag eventueel naar wat u zou kunnen verbeteren.
+- Vraag uzelf af wat u met de feedback wilt doen. Zeg tegen degene die u feedback geeft of u al dan niet iets met de feedback wilt doen. Doe al dan niet iets met de feedback.
+
+**_Uw mening geven_**
+
+- Ga bij uzelf na wat u eigenlijk van het onderwerp vindt.
+- Vestig de aandacht op uzelf, geef aan dat u iets wilt zeggen over het desbetreffende onderwerp.
+- Zeg datgene wat u wilt zeggen, wees kort en bondig en ga niet in op details.
+
+**_Informatie vragen_**
+
+- Vraag of de ander tijd heeft voor u of maak eventueel een afspraak.
+- Vraag naar de informatie die u graag zou willen hebben, wees duidelijk in wat u precies zou willen.
+- Vat de informatie die de ander u gegeven heeft samen en ga na of u het goed begrepen heeft.
+- Bedank de ander.
+
+**_Grenzen stellen_**
+
+- Geef uw mening weer in de ikvorm.
+- Wees concreet en rechtstreeks.
+- Vermijd: ik kan niet, ik moet, ik mag niet.
+- Benoem wat uw mening is en wat u zou willen (ik vind, ik wil).
 
 ## Links
 
