@@ -18,7 +18,8 @@ docker run -d -p 1521:1521 --name rdbms rdbms:naomi-test && docker exec -i rdbms
 
 ## Benaderen portbase corporate and developer shares
 
+
+`alias pubcorp='sudo mount "//ad.portbase.com/fileshare/corporate/publicCorp" -t cifs -o uid=1000,gid=1000,username=r.van.wingerden,domain=AD /mnt/pubcorp/'
 `
-alias pubcorp='sudo mount "//ad.portbase.com/fileshare/corporate/publicCorp" -t cifs -o uid=1000,gid=1000,username=r.van.wingerden,domain=AD /mnt/pubcorp/'
-alias pubdev='sudo mount "//ad.portbase.com/fileshare/developers/publicDev" -t cifs -o uid=1000,gid=1000,username=r.van.wingerden,domain=AD /mnt/pubdev'
+`alias pubdev='sudo mount "//ad.portbase.com/fileshare/developers/publicDev" -t cifs -o uid=1000,gid=1000,username=r.van.wingerden,domain=AD /mnt/pubdev'
 `
