@@ -43,7 +43,9 @@
 
   * # Therapie
   * [Cognitieve gedragstherapie](mind/cgt.md)
+  * # Assertiviteit
   * [Assertiviteitstraining](mind/assertiviteit.md)
+  * [Communicatie](mind/communicatie.md)
   * [Oefeningen](mind/oefeningen.md)
   - - - -
   * # Mindfullness
